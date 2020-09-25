@@ -1,0 +1,12 @@
+/Users/rebecca.edson/Documents/CodingAssessment/obj/Debug/netcoreapp3.1/CodingAssessment.csprojAssemblyReference.cache
+/Users/rebecca.edson/Documents/CodingAssessment/obj/Debug/netcoreapp3.1/CodingAssessment.AssemblyInfoInputs.cache
+/Users/rebecca.edson/Documents/CodingAssessment/obj/Debug/netcoreapp3.1/CodingAssessment.AssemblyInfo.cs
+/Users/rebecca.edson/Documents/CodingAssessment/obj/Debug/netcoreapp3.1/CodingAssessment.csproj.CoreCompileInputs.cache
+/Users/rebecca.edson/Documents/CodingAssessment/bin/Debug/netcoreapp3.1/CodingAssessment.deps.json
+/Users/rebecca.edson/Documents/CodingAssessment/bin/Debug/netcoreapp3.1/CodingAssessment.runtimeconfig.json
+/Users/rebecca.edson/Documents/CodingAssessment/bin/Debug/netcoreapp3.1/CodingAssessment.runtimeconfig.dev.json
+/Users/rebecca.edson/Documents/CodingAssessment/bin/Debug/netcoreapp3.1/CodingAssessment.dll
+/Users/rebecca.edson/Documents/CodingAssessment/bin/Debug/netcoreapp3.1/CodingAssessment.pdb
+/Users/rebecca.edson/Documents/CodingAssessment/obj/Debug/netcoreapp3.1/CodingAssessment.dll
+/Users/rebecca.edson/Documents/CodingAssessment/obj/Debug/netcoreapp3.1/CodingAssessment.pdb
+/Users/rebecca.edson/Documents/CodingAssessment/obj/Debug/netcoreapp3.1/CodingAssessment.genruntimeconfig.cache
