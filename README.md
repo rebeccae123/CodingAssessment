@@ -8,3 +8,7 @@
 <p>For calculating the number of palindrome sentences in the paragraph, the string of text is separated by periods into an array of strings. Each string in this array is now considered a sentence. The alphabetic letters in each sentence are identified and stored as strings. Then these strings are determined to be palindromes by the same process used for words.</p>
 
 <p>The user is prompted to type a letter into the console, and the letter is compared to each unique word's characters. If the word contains the letter, it is added to  a list of words also containing the letter.</p>
+
+### Special Instructions
+- Enter paragraph as single line of text  
+- Enter letter as lowercase
